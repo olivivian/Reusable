@@ -1,0 +1,58 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.top {
+	height: 100px;
+	background: #7FF;
+}
+
+.head {
+	height: 100px;
+	width: 800px;
+	background: pink;
+	margin: 0 auto;
+}
+
+.main {
+	width: 800px;
+	height: 400px;
+	background: #2dd;
+	margin: 0 auto;
+}
+
+.left {
+	width: 200px;
+	height: 400px;
+	background: blue;
+	float: left;
+}
+
+.right {
+	width: 600px;
+	height: 400px;
+	background: yellow;
+	float: right;
+}
+
+.sub_l {
+	width: 400px;
+	height: 400px;
+	background: green;
+	float: left;
+}
+
+.sub_r {
+	width: 200px;
+	height: 400px;
+	background: purple;
+	float: right;
+}
+
+.footer {
+	width: 800px;
+	height: 100px;
+	background: #900;
+	margin: 0 auto;
+}
